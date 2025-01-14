@@ -2,7 +2,7 @@
 
 :root {
   --primary-color: #B9001F;
-}
+} /* os -- significa que é uma variável, precisa delas*/
 
 body {
   font-family: 'Poppins', sans-serif;
